@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qingwu Liu / Site Title"
+title                    : "Qingwu Liu / Personal website"
 title_separator          : "-"
 name                     : &name "Qingwu Liu"
 description              : &description "personal description"
